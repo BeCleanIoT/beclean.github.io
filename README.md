@@ -1,3 +1,3 @@
 BeClean Project Website
 
-Avaliable at https://beclean.github.io/
+Avaliable at https://becleaniot.github.io/
